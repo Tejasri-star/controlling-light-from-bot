@@ -1,0 +1,1 @@
+worker: telebot-tejasri.py
